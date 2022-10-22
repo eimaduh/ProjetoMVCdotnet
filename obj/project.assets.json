@@ -1976,11 +1976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maduh/Área de Trabalho/ProjetoMVC/ProjetoMVC.csproj",
+      "projectUniqueName": "/home/maduh/ProjetoMVCdotnet/ProjetoMVC.csproj",
       "projectName": "ProjetoMVC",
-      "projectPath": "/home/maduh/Área de Trabalho/ProjetoMVC/ProjetoMVC.csproj",
+      "projectPath": "/home/maduh/ProjetoMVCdotnet/ProjetoMVC.csproj",
       "packagesPath": "/home/maduh/.nuget/packages/",
-      "outputPath": "/home/maduh/Área de Trabalho/ProjetoMVC/obj/",
+      "outputPath": "/home/maduh/ProjetoMVCdotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/maduh/.nuget/NuGet/NuGet.Config"
@@ -2037,7 +2037,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
